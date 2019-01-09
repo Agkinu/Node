@@ -1,0 +1,6 @@
+<h1>Results Here</h1>
+<ul>
+  <% data.forEach(function(movie){ %>
+      <li><strong><%= movie["name"] %></strong> -<%= movie.year%></li>
+  <% }) %>
+</ul>

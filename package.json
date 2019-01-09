@@ -1,0 +1,22 @@
+{
+  "name": "welp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "mysql": "^2.16.0",
+    "password-validator": "^4.1.1",
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
